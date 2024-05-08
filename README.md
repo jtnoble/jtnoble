@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jtnoble
 - 💻 I am mostly a Python Developer
-- 🎮 I also dabble in Unity. Follow me on jtnoble.itch.io
+- 🎮 I also dabble in Unity and Godot. Follow me on [itch.io](https://jtnoble.itch.io)
 - 👦 Most of my stuff will be open source one off projects here
 - 🌱 Other than this, my passions are a mixture of Music and Theatre; maybe those projects will come up here someday.
 
